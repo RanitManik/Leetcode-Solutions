@@ -1,8 +1,6 @@
-<div>
+<div align="center">  
     <h1>Leetcode Solutions</h1>
 </div>
-
-# Leetcode Solutions
 
 Welcome to my Leetcode solutions repository! This is a collection of my solutions to various Leetcode problems, showcasing my problem-solving skills and coding practices in multiple languages.
 
