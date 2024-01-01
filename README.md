@@ -55,7 +55,7 @@ If you have additional Leetcode solutions or improvements to existing ones, I en
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out to me:
 
-- Email: ranitmanikofficial@outlook.com
+- [Email](ranitmanikofficial@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/ranit-manik/)
 - [GitHub](https://github.com/RanitManik)
 - [Instagram](https://www.instagram.com/ranit_manik_/)
