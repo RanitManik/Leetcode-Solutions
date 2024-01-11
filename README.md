@@ -2,7 +2,7 @@
     <h1>Leetcode Solutions</h1>
 </div>
 
-Welcome to my Leetcode solutions repository! This is a collection of my solutions to various Leetcode problems, showcasing my problem-solving skills and coding practices in multiple languages.
+Welcome to my Leetcode Solutions repository! This is a collection of my solutions to various Leetcode problems, showcasing my problem-solving skills and coding practices in multiple languages.
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ Welcome to my Leetcode solutions repository! This is a collection of my solution
 
 ## About
 
-Hi, I'm Ranit Manik, a deciplined programmer currently pursuing my Bachelor's degree in Computer Science. This repository is a reflection of my journey in sharpening my algorithmic and coding skills through solving Leetcode problems.
+Hi, I'm Ranit Manik, a disciplined programmer currently pursuing my Bachelor's degree in Computer Science. This repository is a reflection of my journey in sharpening my algorithmic and coding skills through solving Leetcode problems.
 
 ## Languages Used
 
@@ -37,8 +37,8 @@ Leetcode
 │
 ├── Problem2
 │   ├── solution.java
-│   ├── README.md
-│   └── NOTES.md
+│   ├── solution.py
+│   └── README.md
 │
 └── ...
 ```
