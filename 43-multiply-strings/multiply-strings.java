@@ -31,16 +31,4 @@ public class Solution {
 
         return sb.length() == 0 ? "0" : sb.toString();
     }
-
-    public static void main(String[] args) {
-        String num1 = "2";
-        String num2 = "3";
-        String result1 = multiply(num1, num2);
-        System.out.println(result1);
-
-        String num3 = "123";
-        String num4 = "456";
-        String result2 = multiply(num3, num4);
-        System.out.println(result2);
-    }
 }
