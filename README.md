@@ -28,23 +28,6 @@ Hi, I'm Ranit Manik, a disciplined programmer currently pursuing my Bachelor's d
 ## Badges
 
 <div>
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
-    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
     <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">    
 </div>
 
