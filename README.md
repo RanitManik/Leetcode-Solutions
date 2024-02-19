@@ -11,6 +11,7 @@ Welcome to my Leetcode Solutions repository! This is a collection of my solution
 - [Languages Used](#languages-used)
 - [Folder Structure](#folder-structure)
 - [How to Use](#how-to-use)
+- [Badges](#badges)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -47,6 +48,12 @@ Leetcode
 ## How to Use
 
 Feel free to explore the solutions and use them as a reference for your own learning. Each solution is accompanied by comments and explanations within the code itself. If you find a better or more optimized solution, contributions are welcome!
+
+## Badges
+
+<div>
+    <img width=100 src = "https://assets.leetcode.com/static_assets/marketing/2024-50.gif">
+</div>
 
 ## Contributing
 
